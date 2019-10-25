@@ -1,0 +1,11 @@
+#myCanvas{
+    background: brown;
+}
+#btn{
+    background: brown;
+    height: 50;
+    width: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white
+}
